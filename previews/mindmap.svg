@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="370" viewBox="0 0 900 370" role="img" aria-label="Яндекс.Маршруты · карта проверок">
+<rect width="900" height="370" rx="18" fill="#102138"/>
+<g font-family="system-ui, sans-serif">
+<text x="32" y="44" font-size="26" font-weight="700" fill="#f4f7fb">Яндекс.Маршруты · карта проверок</text>
+<text x="32" y="74" font-size="16" fill="#a9c1dc">Обзор основных ветвей учебной карты</text>
+<rect x="32" y="94" width="836" height="54" rx="10" fill="#1b324d"/>
+<text x="50" y="127" font-size="17" font-weight="700" fill="#7de4d1">Адреса</text>
+<text x="277" y="127" font-size="17" fill="#f4f7fb">Поля «Откуда» и «Куда» → корректность ввода</text>
+<rect x="32" y="159" width="836" height="54" rx="10" fill="#203a56"/>
+<text x="50" y="192" font-size="17" font-weight="700" fill="#7de4d1">Время</text>
+<text x="277" y="192" font-size="17" fill="#f4f7fb">Часы, минуты и разделитель → проверка формата</text>
+<rect x="32" y="224" width="836" height="54" rx="10" fill="#1b324d"/>
+<text x="50" y="257" font-size="17" font-weight="700" fill="#7de4d1">Режим и транспорт</text>
+<text x="277" y="257" font-size="17" fill="#f4f7fb">Переключатели → варианты маршрута</text>
+<rect x="32" y="289" width="836" height="54" rx="10" fill="#203a56"/>
+<text x="50" y="322" font-size="17" font-weight="700" fill="#7de4d1">Расчёт</text>
+<text x="277" y="322" font-size="17" fill="#f4f7fb">Время и стоимость → логика поездки</text>
+</g></svg>

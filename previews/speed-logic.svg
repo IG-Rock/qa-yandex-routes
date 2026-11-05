@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="435" viewBox="0 0 900 435" role="img" aria-label="Время старта · выбор скорости">
+<rect width="900" height="435" rx="18" fill="#102138"/>
+<g font-family="system-ui, sans-serif">
+<text x="32" y="44" font-size="26" font-weight="700" fill="#f4f7fb">Время старта · выбор скорости</text>
+<text x="32" y="74" font-size="16" fill="#a9c1dc">Обзор ветвей блок-схемы для автомобиля</text>
+<rect x="32" y="94" width="836" height="54" rx="10" fill="#1b324d"/>
+<text x="50" y="127" font-size="17" font-weight="700" fill="#7de4d1">Некорректный ввод</text>
+<text x="277" y="127" font-size="17" fill="#f4f7fb">Подсветка поля и сообщение об ошибке</text>
+<rect x="32" y="159" width="836" height="54" rx="10" fill="#203a56"/>
+<text x="50" y="192" font-size="17" font-weight="700" fill="#7de4d1">08:01–12:00</text>
+<text x="277" y="192" font-size="17" fill="#f4f7fb">45 км/ч</text>
+<rect x="32" y="224" width="836" height="54" rx="10" fill="#1b324d"/>
+<text x="50" y="257" font-size="17" font-weight="700" fill="#7de4d1">12:01–18:00</text>
+<text x="277" y="257" font-size="17" fill="#f4f7fb">30 км/ч</text>
+<rect x="32" y="289" width="836" height="54" rx="10" fill="#203a56"/>
+<text x="50" y="322" font-size="17" font-weight="700" fill="#7de4d1">18:01–22:00</text>
+<text x="277" y="322" font-size="17" fill="#f4f7fb">40 км/ч</text>
+<rect x="32" y="354" width="836" height="54" rx="10" fill="#1b324d"/>
+<text x="50" y="387" font-size="17" font-weight="700" fill="#7de4d1">Остальное время</text>
+<text x="277" y="387" font-size="17" fill="#f4f7fb">25 км/ч</text>
+</g></svg>
